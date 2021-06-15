@@ -1,0 +1,29 @@
+      <CompanyInfo>
+        <Info CertificationNumber="" ContactLine1="" ContactLine2="" CompanyName="Infinite Energy" CustomerServicePhone="(866) 634-2748" CustomerServiceHours="Monday through Friday, 8 a.m. to 7 p.m. Eastern" FacebookLink="" TwitterLink="" WebsiteLink="" EmergencyPhone="(877) 427-4321" Email="Care@InfiniteEnergy.com" />
+      </CompanyInfo>
+      <InvoiceInfo>
+        <InvoiceDetails InvoiceNumber="37131070392010" BillDate="10/19/20" DueDate="11/9/20" ShowDefinitionSection="true" ShowAGLNumber="true" MeterDisplay="GA" ShowDates="range" />
+        <UsageInfo CurrentRead="" PreviousRead="" MeterMultiplier="" TotalUsage="0.0" ServiceRateClass="" UnitOfMeasurement="" ServicePeriodBeginDate="" ServicePeriodEndDate="" Rate="" />
+        <OCRInfo OCRLine="020000000000371310703911092000000193091" />
+        <DelinquencyLetterInfo DLDueDate1Balance="" DLDueDate1="" DLDueDate2Balance="" DLDueDate2="" DLPrepayDate="" />
+      </InvoiceInfo>
+      <InvoiceAccountInfo>
+        <Account AccountNumber="3713107039" GroupID="" Standing="Good" AccountName="SOUTHERN STATES ENERGY BOARD" EmailAddress="ap@sseb.org" Phone="" Fax="" />
+        <MailingAddress AddressLine1="" AddressLine2="6325 AMHERST CT STE 100" AddressLine3="NORCROSS, GA 30092-3187" ZipCode="30092-3187" />
+        <VendorAccountInfo>
+          <VendorAccount VendorName="" VendorLongName="" ExternalVendorAccountNumber="-Multiple-" LocationIdentifier="" InternalAccountNumber="" AccountName="" Status="" AddressLine1="-Multiple-" AddressLine2="" AddressLine3="" ZipCode="" />
+        </VendorAccountInfo>
+      </InvoiceAccountInfo>
+      </InvoiceAmountsInfo>
+      <ConstituentAccounts>
+        <Account VendorName="" ExternalAccount="387120486" MeterNumber="000784803" Status="Active" CurrentMeterRead="8204" PreviousMeterRead="" MeterMultiplier="" ReadBeginDate="8/31/2020" ReadEndDate="10/1/2020" Usage="0.0" NewCharges="40.90" TotalAmount="" AccountName="SOUTHERN STATES ENERGY BOARD" Address="6325 AMHERST Ct Suite 200" DDDC="" AgreementEndDate="" ReadAmount="" Rate="" NumberOfDays="29" BTUFactor="">
+          <Charge ExternalAccount="387120486" AccountNumber="6915191825" TierId="" ReadAmount="8204" PreviousReadAmount="" ReadSource="Actual" PreviousReadSource="Actual" ReadBeginDate="8/31/2020" ReadEndDate="8/31/2020" NumberOfDays="0" UsageVolume="0.0000" Usage="0.0" ConversionFactor="1.0330" Rate="0.3800" RateExpiration="1/31/21" CommodityCharge="0.00" DeliveryAmount="37.84" DDDC="3.06" DDDCFactor="0.3598" CSFeeAmount="0.00" DMSFee="" SourcingFee="" EnhancedServicesFee="" PassThroughCharge="" DACCharge="" FGTFuelCharge="" LDCFuelCharge="" TaxAmount="0.00" AdjustmentAmount="" OtherFeesAmount="" TotalAmount="40.90" />
+          <Charge ExternalAccount="387120486" AccountNumber="6915191825" TierId="" ReadAmount="8204" PreviousReadAmount="" ReadSource="Actual" PreviousReadSource="Actual" ReadBeginDate="9/1/2020" ReadEndDate="9/30/2020" NumberOfDays="29" UsageVolume="0.0000" Usage="0.0" ConversionFactor="1.0330" Rate="0.3800" RateExpiration="1/31/21" CommodityCharge="0.00" DeliveryAmount="0.00" DDDC="0.00" DDDCFactor="0.3598" CSFeeAmount="0.00" DMSFee="" SourcingFee="" EnhancedServicesFee="" PassThroughCharge="" DACCharge="" FGTFuelCharge="" LDCFuelCharge="" TaxAmount="0.00" AdjustmentAmount="" OtherFeesAmount="" TotalAmount="0.00" />
+          <Charge ExternalAccount="387120486" AccountNumber="6915191825" TierId="" ReadAmount="8204" PreviousReadAmount="" ReadSource="Actual" PreviousReadSource="Actual" ReadBeginDate="10/1/2020" ReadEndDate="10/1/2020" NumberOfDays="0" UsageVolume="0.0000" Usage="0.0" ConversionFactor="1.0330" Rate="0.3800" RateExpiration="1/31/21" CommodityCharge="0.00" DeliveryAmount="0.00" DDDC="0.00" DDDCFactor="0.3598" CSFeeAmount="0.00" DMSFee="" SourcingFee="" EnhancedServicesFee="" PassThroughCharge="" DACCharge="" FGTFuelCharge="" LDCFuelCharge="" TaxAmount="0.00" AdjustmentAmount="" OtherFeesAmount="" TotalAmount="0.00" />
+        </Account>
+      </ConstituentAccounts>
+      <FinalAmounts>
+        <FinalAmount Label="TOTAL AMOUNT DUE BY 11/9/20" Amount="193.09" />
+      </FinalAmounts>
+    </Invoice>
+  </InvoiceDocument>
