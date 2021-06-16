@@ -1,4 +1,9 @@
 #!perl
+#
+# GetBundles  -  Download the Highmark bundles for a day, or the bundle names
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use JSON;

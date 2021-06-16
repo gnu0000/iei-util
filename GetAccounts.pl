@@ -1,4 +1,9 @@
 #!perl
+#
+# GetAccounts.pl  -  Find some accounts
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use feature 'state';

@@ -1,4 +1,9 @@
 #!perl
+#
+# InvoiceScanner  -  Scan invoices for specfic conditions
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use feature 'state';

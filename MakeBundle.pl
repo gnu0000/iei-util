@@ -1,4 +1,9 @@
 #!perl
+#
+# MakeBundle  -  Create Invoice bundle from xml files or the adept database.
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use feature 'state';

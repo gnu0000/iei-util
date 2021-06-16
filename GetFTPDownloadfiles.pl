@@ -1,4 +1,9 @@
 #!perl
+#
+# GetFTPDownloadFiles  -  Download the Highmark zips for a day
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use JSON;

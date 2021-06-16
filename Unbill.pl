@@ -1,7 +1,10 @@
 #!perl
 #
+# unbill.pl  -  Unbill last Invoice for a given account
 # todo: support invoice# as well as account#
+# Craig fitzgerald
 #
+
 use warnings;
 use strict;
 use File::Basename;

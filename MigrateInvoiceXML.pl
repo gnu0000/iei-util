@@ -1,4 +1,9 @@
 #!perl
+#
+# MigrateInvoiceXML.pl  -  Migrate invoice files to a local db, or show migrated info
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use POSIX       qw(strftime);

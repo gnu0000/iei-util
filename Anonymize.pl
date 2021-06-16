@@ -1,4 +1,9 @@
 #!perl
+#
+# Anonymize.pl  -  Anonymize invoice data
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use feature 'state';
@@ -119,4 +124,5 @@ sub AnonymizeFile
 __DATA__
 
 [usage]
-todo
+There is no usage information.
+This utility does not require arguments

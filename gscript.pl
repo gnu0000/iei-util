@@ -1,3 +1,9 @@
+#!perl
+#
+# gscript.pl  -  Run a Gscript
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 

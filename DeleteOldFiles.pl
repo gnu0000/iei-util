@@ -1,4 +1,9 @@
 #!perl
+#
+# DeleteOldFiles.pl  -  Delete files older than a certain date
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use JSON;

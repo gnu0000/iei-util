@@ -1,4 +1,8 @@
 #!perl
+#
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use File::Basename;

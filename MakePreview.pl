@@ -1,4 +1,9 @@
 #!perl
+#
+# MakePreview.pl  -  Create Invoice Preview HTML files from xml files
+# Craig fitzgerald
+#
+
 use warnings;
 use strict;
 use File::Basename;
